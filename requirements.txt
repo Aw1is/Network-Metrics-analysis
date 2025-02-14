@@ -1,0 +1,11 @@
+matplotlib
+pandas
+tensorflow
+numpy
+scikit-learn
+scapy
+mininet
+traceroute
+Nmap
+iperf3
+seaborn
